@@ -3,3 +3,4 @@
 * react-query  networking and cashing management
 * url / redux/ context   client side state management
 * react-beautiful-dnd   for drag and drop function
+* implement optimistic update 
